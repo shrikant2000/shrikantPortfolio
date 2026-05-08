@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/shrikantPortfolio/static/css/main.ba86731b.chunk.css",
-    "main.js": "/shrikantPortfolio/static/js/main.67e74bf8.chunk.js",
-    "main.js.map": "/shrikantPortfolio/static/js/main.67e74bf8.chunk.js.map",
-    "runtime-main.js": "/shrikantPortfolio/static/js/runtime-main.7bcf2d24.js",
-    "runtime-main.js.map": "/shrikantPortfolio/static/js/runtime-main.7bcf2d24.js.map",
-    "static/js/2.f03557d3.chunk.js": "/shrikantPortfolio/static/js/2.f03557d3.chunk.js",
-    "static/js/2.f03557d3.chunk.js.map": "/shrikantPortfolio/static/js/2.f03557d3.chunk.js.map",
-    "index.html": "/shrikantPortfolio/index.html",
-    "precache-manifest.d849151b8963abcbc85c2ebad4e11503.js": "/shrikantPortfolio/precache-manifest.d849151b8963abcbc85c2ebad4e11503.js",
-    "service-worker.js": "/shrikantPortfolio/service-worker.js",
-    "static/css/main.ba86731b.chunk.css.map": "/shrikantPortfolio/static/css/main.ba86731b.chunk.css.map",
-    "static/media/index.css": "/shrikantPortfolio/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/IMG_20250208_194446.jpg": "/shrikantPortfolio/static/media/IMG_20250208_194446.4053b9db.jpg",
-    "static/media/Resume.pdf": "/shrikantPortfolio/static/media/Resume.570d6a1b.pdf"
+    "main.css": "/static/css/main.c7778859.chunk.css",
+    "main.js": "/static/js/main.23a0b3d3.chunk.js",
+    "main.js.map": "/static/js/main.23a0b3d3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.08e4807d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.08e4807d.js.map",
+    "static/js/2.022974e0.chunk.js": "/static/js/2.022974e0.chunk.js",
+    "static/js/2.022974e0.chunk.js.map": "/static/js/2.022974e0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.71cf69e886b1c856945e4c5d6b3e2300.js": "/precache-manifest.71cf69e886b1c856945e4c5d6b3e2300.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c7778859.chunk.css.map": "/static/css/main.c7778859.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/IMG_20250208_194446.jpg": "/static/media/IMG_20250208_194446.4053b9db.jpg",
+    "static/media/Resume.pdf": "/static/media/Resume.570d6a1b.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.7bcf2d24.js",
-    "static/js/2.f03557d3.chunk.js",
-    "static/css/main.ba86731b.chunk.css",
-    "static/js/main.67e74bf8.chunk.js"
+    "static/js/runtime-main.08e4807d.js",
+    "static/js/2.022974e0.chunk.js",
+    "static/css/main.c7778859.chunk.css",
+    "static/js/main.23a0b3d3.chunk.js"
   ]
 }
