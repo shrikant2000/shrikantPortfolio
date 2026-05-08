@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": "resume-project-1",
+      "name": "Predicting Trends of Quality-Oriented Jobs",
+      "createdAt": "2021-01-01T00:00:00Z",
+      "url": "https://github.com/shrikant2000",
+      "description": "Built a backend analytics platform processing 10,000+ data points, developed APIs and pipelines improving classification accuracy by 22%, implemented a KNN model with 85% precision, and reduced response time by 30% through backend optimization.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "simple-icons:django"
+        },
+        {
+          "name": "Machine Learning",
+          "iconifyClass": "simple-icons:scikitlearn"
+        }
+      ]
+    }
+  ]
+}
